@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jun 19 13:24:00 CEST 2024","Wed Jun 19 13:24:02 CEST 2024","1996","All Test Suite","RESTfulbookerAPIAutomation","org.example.misc.TestFile","org.example.misc.TestFile","postRequest","postRequest",""
