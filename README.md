@@ -51,3 +51,12 @@ CRUD Operation
 - Any Misc Utils, Faker I
 - Database Connection My SQL connector Code
 - JDBC Connector code for the MYSQL data.
+
+### Mobile Testing
+- How to keep locators
+- Flows, E2E
+- Start the sessions and close the sessions
+- assertions are the same
+
+### BDD with cucumber
+- A extra layer of feature file of code

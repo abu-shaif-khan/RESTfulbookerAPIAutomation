@@ -3,10 +3,10 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true"
           name="RESTfulbookerAPIAutomation">
-        <classes>
-            <class name="org.example.misc.TestFile">
-            </class>
-        </classes>
+        <packages>
+            <package name="org.example.crud.Integration_scenarios.*"/>
+
+        </packages>
         <groups>
             <run>
                 <include name="p0"></include>
